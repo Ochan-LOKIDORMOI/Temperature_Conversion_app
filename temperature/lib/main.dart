@@ -12,7 +12,7 @@ class TemperatureConversionApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Temperature Conversion',
+      title: 'Temperature Conversion App',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
